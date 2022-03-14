@@ -1,4 +1,9 @@
 # pygpmf
+Simple usage example:
+python extract_gps.py -i 0004
+Where files GX010004.MP4 and GX020004.MP4 are located in args.path ('/Users/fischert/Pictures/HERO10 BLACK' by default)
+
+# Original README
 A python Module to extract GPMF information from Videos
 
 More information on the format is available on the
