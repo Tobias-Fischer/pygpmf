@@ -1,6 +1,8 @@
 # pygpmf
 Simple usage example:
-python extract_gps.py -i 0004
+```
+python extract_gps.py -i 0004 -p /path/to/video/files
+```
 Where files GX010004.MP4 and GX020004.MP4 are located in args.path ('/Users/fischert/Pictures/HERO10 BLACK' by default)
 
 # Original README
